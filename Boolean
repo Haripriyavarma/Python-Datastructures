@@ -1,0 +1,6 @@
+Python Datastructures and Boolean
+Boolean values are the two constant objects False and True.
+They are written as False and True Respectively.
+
+print(True,False)
+type(True)
